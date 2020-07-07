@@ -1,5 +1,5 @@
 # Build your say_hello method here
-def say_hello(name.exla = "Ruby Programmer")
+def say_hello(name.exlamation = "Ruby Programmer")
   puts "Hello #{name}."
 end
 
